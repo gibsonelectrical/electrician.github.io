@@ -3384,3 +3384,8 @@ text-transform: uppercase;
     font-size: 40px;
     margin-right: 10px;
 }
+
+.test {
+    color: red;
+    background-color: purple;
+}
