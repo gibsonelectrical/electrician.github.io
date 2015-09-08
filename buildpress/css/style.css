@@ -3368,3 +3368,19 @@ text-transform: uppercase;
   color: #fff;
   line-height: 42px; 
 }
+
+/* Added Styles */
+
+.no-link-style-dark {
+    color: #999999;
+}
+
+.no-link-style-light {
+    color: #dddddd;
+}
+
+.icon-fix {
+    float: left;
+    font-size: 40px;
+    margin-right: 10px;
+}
