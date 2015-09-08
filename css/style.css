@@ -3394,18 +3394,3 @@ text-transform: uppercase;
     position: relative;
     color: #666;
 }
-
-.footer-bottom-fix a.go-top {
-    display: block;
-    position: absolute;
-    left: 50%;
-    top: 10px;
-    margin-left: -21px;
-    text-decoration: none;
-    -webkit-transition: all 0.23s ease-in-out;
-        width: 42px;
-    height: 42px;
-    background: #666;
-    text-align: center;
-    border-radius: 4px;
-}
