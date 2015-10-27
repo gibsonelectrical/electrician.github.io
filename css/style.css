@@ -3394,3 +3394,7 @@ text-transform: uppercase;
     position: relative;
     color: #666;
 }
+
+.background-none {
+    background: none;
+}
