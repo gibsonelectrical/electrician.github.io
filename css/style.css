@@ -3398,3 +3398,7 @@ text-transform: uppercase;
 .background-none {
     background: none;
 }
+
+.current-menu-item > a {
+    color: #333333 !important;
+}
